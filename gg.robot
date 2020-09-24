@@ -10,7 +10,7 @@ Ole
     Click Element    //h3[.='Kapook.com รวม ข่าว ผลบอล เกมส์ ดูดวง ตรวจหวย ดูทีวีออนไลน์ ...']
     Click Link   css=[track='nav-ทำอาหาร']
     Scroll Page To Location  0  500
-
+adwadawdawd
     
 
 *** Keywords ***
